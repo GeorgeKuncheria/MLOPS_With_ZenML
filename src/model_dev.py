@@ -25,6 +25,8 @@ class LinearRegressionModel(Model):
     Linear regression model which implements the train method to train a linear regression model.
     """
 
+    
+    
     def train(self, X_train, y_train,**kwargs):
         """Trains the linear regression model on the training data.
 

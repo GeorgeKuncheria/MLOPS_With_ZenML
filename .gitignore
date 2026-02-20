@@ -1,3 +1,4 @@
 .vscode
 .zen
 .DS_Store
+pipelines/__pycache__
